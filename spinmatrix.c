@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-#define LEN 13
+#define LEN 9
 
 void print(int (*a)[LEN] ,int len);
 void setValue(int num, int x, int y, int (*a)[LEN], int len);
@@ -20,7 +20,7 @@ void print(int (*a)[LEN] ,int len)
 		{
 			printf("%-3d ", a[i][j]);
 		}
-	printf("\n");
+		printf("\n");
 	}
 }
 
