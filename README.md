@@ -5,3 +5,4 @@ spinmatrix
 
 combination
 打印组合数C(n, m)。 eg:C(5, 3)--543，542，541，532，531，521，432，431，421，321
+![图] test/ex1.gif 
